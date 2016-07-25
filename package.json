@@ -1,0 +1,15 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "a text editor buit with nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OMAR HASSANE",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.6.2",
+    "share": "^0.6.3"
+  }
+}
